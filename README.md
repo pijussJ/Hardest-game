@@ -13,3 +13,6 @@ Installation:
    
 Roadmap:
 This is the final version.
+
+If you wanna play on the web:
+https://play.unity.com/p/webgl-builds-372276/edit
